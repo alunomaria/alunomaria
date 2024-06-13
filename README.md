@@ -1,5 +1,4 @@
-## Hi there 👋
-
+bem vindo ao meu perfil
 <!--
 **alunomaria/alunomaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
